@@ -1,15 +1,22 @@
-<p><mark><b>#PASSWORD-GENERATOR APP</mark></b></mark></p>
-<br>
-<b>Overview</b><br>
-The Password Generator project is a dynamic web application designed to create secure passwords of varying lengths and complexities. Users can specify the desired length of the password (between 1 to 20 characters) and choose to include uppercase letters, lowercase letters, symbols, and digits. This project is built using HTML, CSS, and JavaScript, and features a strength indicator to help users assess the security of their generated passwords.
-<br>
-<b>Features</b><br>
-<b>Customizable Password Length: </b>Users can select a password length ranging from 1 to 20 characters.<br>
-<b>Character Options: </b>The generator can include uppercase letters, lowercase letters, symbols, and digits based on user preferences.<br>
-<b>Strength Indicator:</b> A visual indicator provides feedback on the strength of the generated password, helping users create secure passwords.<br>
-<b>User-Friendly Interface: </b>The interface is clean and intuitive, making it easy for users to generate and copy passwords.<br>
-<b>Real-Time Generation:</b> Passwords are generated in real-time as users adjust settings, providing immediate feedback.<br>
-<b>Technical Details</b><br><br>
-<b>HTML: </b>Provides the structure of the application, including input fields for password length, checkboxes for character options, and the strength indicator.<br>
-<b>CSS: </b>Styles the application for an attractive and responsive design, ensuring usability across various devices.<br>
-<b>JavaScript: </b>Handles the logic for password generation, strength evaluation, and real-time updates based on user inputs<br>
+﻿Password Generator
+================
+
+The Password Generator is a simple, yet powerful web-based application that allows you to generate secure and strong passwords with ease. It provides you with the flexibility to customize the password length, and include uppercase letters, lowercase letters, numbers, and symbols to suit your requirements.
+
+Features
+---------
+
+* **Password Length:** Customize the length of the password from 1 to 20 characters.
+* **Uppercase Letters:** Choose to include uppercase letters in the password.
+* **Lowercase Letters:** Choose to include lowercase letters in the password.
+* **Numbers:** Choose to include numbers in the password.
+* **Symbols:** Choose to include symbols in the password.
+* **Strength Indicator:** Displays the strength of the password based on the selected options.
+* **Copy to Clipboard:** Easily copy the generated password to the clipboard with a single click.
+
+
+
+Developer
+---------
+
+The Password Generator was developed by [Anant Vijay](https://github.com/AnantVijay16).
